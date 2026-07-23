@@ -151,7 +151,6 @@ openssl=3.1.8=h81ee809_0
 opt_einsum=3.3.0=pyhc1e730c_2
 packaging=25.0=pyh29332c3_1
 pcre2=10.40=hb34f9b4_0
-pillow=9.4.0=py39h8bd98a6_1
 pip=25.0.1=pyh8b19718_0
 pixman=0.44.2=h2f9eb0b_0
 poppler=23.03.0=h9564b9f_0
