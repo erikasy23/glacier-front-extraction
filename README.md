@@ -5,7 +5,8 @@
 
 This software automatically delineates calving front positions from Landsat-8 and Landsat-9 Level-1 data archives. It processes multispectral imagery using a specialized artificial neural network (ANN). In particular, it uses a convolutional neural network of the U-Net architecture to semantically segment images into a glacier/land and water class. The glacier calving front, which is described by the boundary between these two classes, is then extracted by vectorizing and masking the model prediction. The figure below gives a broad overview of the processing workflow.
 
-![workflow_v5](https://user-images.githubusercontent.com/68990782/225638941-61c5c4ca-3319-4894-92aa-f81d853dbf15.png)
+<img width="1326" height="302" alt="eloebel_workflow" src="https://github.com/user-attachments/assets/1609a5f6-bd39-488f-9a21-cccceca145e2" />
+
 
 The model is trained using manually delineated calving front position from 23 Greenland and 12 Antarctic Peninsula outlet glaciers. We evaluated the performance of this model using three independent test datasets, including glaciers in Svalbard and in Patagonia. The quality of the automatically extracted calving fronts is comparable to that of manually delineated calving fronts. The processing system and its validation are described in detail in [this article](https://tc.copernicus.org/articles/18/3315/2024/). Details of the performance specifically for the Antarctic Peninsula are also published [here](https://essd.copernicus.org/articles/17/65/2025/essd-17-65-2025.html).
 
