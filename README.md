@@ -126,7 +126,7 @@ The following Antarctic Peninsula glaciers can be selected directly from the env
 | Erskine Glacier   | erskine       |
 | Keith Glacier   | keith       |
 | Otlet Glacier   | otlet       |
-| Cadmand and Funk Glacier   | cadman_funk       |
+| Cadman and Funk Glacier   | cadman_funk       |
 | Renard-Krebs Glacier   | renard_krebs       |
 | Temple Glacier   | temple       |
 | Malorad Glacier   | malorad       |
