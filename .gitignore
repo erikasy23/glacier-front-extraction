@@ -1,0 +1,5 @@
+.venv/
+model-weights.tf/
+*.zip
+__pycache__/
+.DS_Store
